@@ -39,3 +39,9 @@ En seguridad cambiar por los credenciales de postgres
             </drivers>
         </datasources>
     </subsystem>
+
+
+## Configuracion de persistencia
+
+Crear una base de datos en postgres denominada ` backend `  
+Ejecutar el script denomidado ``SCRIPT.sql`` en la base de datos creada
